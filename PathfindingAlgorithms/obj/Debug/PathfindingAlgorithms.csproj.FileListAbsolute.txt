@@ -1,0 +1,1 @@
+G:\Development\Repos\PathfindingAlgorithms\PathfindingAlgorithms\bin\Debug\PathfindingAlgorithms.exe.config

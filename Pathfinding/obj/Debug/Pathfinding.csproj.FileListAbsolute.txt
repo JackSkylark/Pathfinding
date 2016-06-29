@@ -1,0 +1,7 @@
+G:\Development\Repos\PathfindingAlgorithms\Pathfinding\obj\Debug\Pathfinding.csprojResolveAssemblyReference.cache
+G:\Development\Repos\PathfindingAlgorithms\Pathfinding\bin\Debug\Pathfinding.dll
+G:\Development\Repos\PathfindingAlgorithms\Pathfinding\bin\Debug\Pathfinding.pdb
+G:\Development\Repos\PathfindingAlgorithms\Pathfinding\bin\Debug\Utilities.dll
+G:\Development\Repos\PathfindingAlgorithms\Pathfinding\bin\Debug\Utilities.pdb
+G:\Development\Repos\PathfindingAlgorithms\Pathfinding\obj\Debug\Pathfinding.dll
+G:\Development\Repos\PathfindingAlgorithms\Pathfinding\obj\Debug\Pathfinding.pdb
