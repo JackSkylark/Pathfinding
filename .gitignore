@@ -1,0 +1,8 @@
+# C# Build folders
+# ---------------
+bin/
+obj/
+
+# VS folders
+# ---------------
+.vs/
